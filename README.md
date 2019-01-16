@@ -1,8 +1,8 @@
 # Ternary Traveler
 Lets Travel!
 
-You can add a new event
-But you can't edit, submit a review, or delete (sad face)
+- You can add a new event
+- But you can't edit, submit a review, or delete (sad face)
 
 ## Setup
 
