@@ -4,6 +4,9 @@ Lets Travel!
 - You can add a new event
 - But you can't edit, submit a review, or delete (sad face)
 
+![alt text](sweetPic.png)
+
+
 ## Setup
 
 1. Clone this repository.
