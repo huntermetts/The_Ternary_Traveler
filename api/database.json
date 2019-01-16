@@ -1,22 +1,28 @@
 {
-  "fridge": [
+  "places": [
     {
-      "name": "severed toad head",
-      "expiration": "12/25/2018",
-      "type": "reptile meat",
-      "id": 1
+      "id": 1,
+      "name": "Athens",
+      "visa_required": false
     },
     {
-      "name": "broccoli",
-      "expiration": "01/01/2019",
-      "type": "vegetable",
-      "id": 2
+      "id": 2,
+      "name": "Florence",
+      "visa_required": false
     },
     {
-      "name": "mashed potatoes",
-      "expiration": "01/01/2017",
-      "type": "blob",
-      "id": 3
+      "id": 3,
+      "name": "Madrid",
+      "visa_required": false
+    }
+  ],
+  "interests": [
+    {
+      "id": 1,
+      "locationName": "Florence",
+      "name": "Farmers Market",
+      "description": "Bought a veggie",
+      "cost": "$3"
     }
   ]
 }
